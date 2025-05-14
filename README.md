@@ -1,4 +1,4 @@
-# ai-sec-quantum-computing
+# QuLearnLabs: AI-Assisted Software Engineering for Quantum Computing and Post-Quantum Cryptography
 
 ✅ [Week #1](https://anj.hashnode.dev/week-1-kicking-off-our-journey-into-qulearnlabs-ai-assisted-software-engineering-for-quantum-computing-and-post-quantum-cryptography)
 - [ ] Week #2
